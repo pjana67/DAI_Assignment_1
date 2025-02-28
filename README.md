@@ -17,8 +17,6 @@ Exercise-Induced Angina: Strongly linked to lower max heart rate and higher ST d
 
 Key Findings:
 
-✅ Older men with high cholesterol, high blood pressure, and exercise-induced angina are at the highest risk.
-✅ Chest pain type, ST depression, and max heart rate are the most important predictors of heart disease.
-✅ Lifestyle factors like exercise and blood pressure management play a crucial role in reducing risk.
+Older men with high cholesterol, high blood pressure, and exercise-induced angina are at the highest risk. Chest pain type, ST depression, and max heart rate are the most important predictors of heart disease. Lifestyle factors like exercise and blood pressure management play a crucial role in reducing risk.
 
 This analysis provides actionable insights into heart disease risk factors, aiding early detection and prevention. 
